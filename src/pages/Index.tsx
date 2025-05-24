@@ -44,7 +44,7 @@ const Index = () => {
       <div className="container mx-auto px-4 py-16">
         <div className="text-center mb-16">
           <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 bg-clip-text text-transparent glow-text">
-            SUPREME CHEAT
+            FENIKS CHEAT
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
             Самый продвинутый чит для доминирования в игре. Непобедимые
