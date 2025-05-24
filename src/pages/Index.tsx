@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import ScreenshotsDialog from "@/components/ScreenshotsDialog";
 
 const Index = () => {
   const features = [
@@ -59,6 +60,7 @@ const Index = () => {
             >
               💾 СКАЧАТЬ ЧИТ
             </Button>
+            <ScreenshotsDialog />
             <div className="text-sm text-gray-400">
               ✅ Обновлено • ✅ Безопасно • ✅ Бесплатно
             </div>
