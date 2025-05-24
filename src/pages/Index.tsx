@@ -60,7 +60,6 @@ const Index = () => {
             >
               💾 СКАЧАТЬ ЧИТ
             </Button>
-            <ScreenshotsDialog />
             <div className="text-sm text-gray-400">
               ✅ Обновлено • ✅ Безопасно • ✅ Бесплатно
             </div>
